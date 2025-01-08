@@ -53,6 +53,8 @@ The <span style="color: purple;"> **Chain of Responsibility**  </span> is a beha
 
 -  Some requests may end up unhandled.
 
-## <span style="color: gold;"> * Example </span>
-
 The Chain of Responsibility pattern avoids coupling the sender of a request to the receiver by giving more than one object a chance to handle the request. ATM use the Chain of Responsibility in money giving mechanism.
+
+## <span style="color: gold;"> * UML Diagram </span>
+
+![image-20250108134601895](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20250108134601895.png)
