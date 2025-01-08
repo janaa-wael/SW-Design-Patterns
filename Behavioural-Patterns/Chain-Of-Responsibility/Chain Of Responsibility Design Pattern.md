@@ -57,4 +57,5 @@ The Chain of Responsibility pattern avoids coupling the sender of a request to t
 
 ## <span style="color: gold;"> * UML Diagram </span>
 
-![image-20250108134601895](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20250108134601895.png)
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40amirm.lavasani%2Fdesign-patterns-in-python-chain-of-responsibility-cc22bb241b41&psig=AOvVaw2FmCi_7qFmw5DJRXlEs67p&ust=1736423335475000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjS05OH5ooDFQAAAAAdAAAAABAE)
+
