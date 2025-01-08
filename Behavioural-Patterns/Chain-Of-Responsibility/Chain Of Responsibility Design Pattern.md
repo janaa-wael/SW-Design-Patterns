@@ -52,3 +52,7 @@ The <span style="color: purple;"> **Chain of Responsibility**  </span> is a beha
 ##  * Cons 
 
 -  Some requests may end up unhandled.
+
+## <span style="color: gold;"> * Example </span>
+
+The Chain of Responsibility pattern avoids coupling the sender of a request to the receiver by giving more than one object a chance to handle the request. ATM use the Chain of Responsibility in money giving mechanism.
