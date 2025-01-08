@@ -53,9 +53,11 @@ The <span style="color: purple;"> **Chain of Responsibility**  </span> is a beha
 
 -  Some requests may end up unhandled.
 
+<span style="color: gold;"> * Example </span>
+
 The Chain of Responsibility pattern avoids coupling the sender of a request to the receiver by giving more than one object a chance to handle the request. ATM use the Chain of Responsibility in money giving mechanism.
 
 ## <span style="color: gold;"> * UML Diagram </span>
 
-![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40amirm.lavasani%2Fdesign-patterns-in-python-chain-of-responsibility-cc22bb241b41&psig=AOvVaw2FmCi_7qFmw5DJRXlEs67p&ust=1736423335475000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjS05OH5ooDFQAAAAAdAAAAABAE)
+![Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40amirm.lavasani%2Fdesign-patterns-in-python-chain-of-responsibility-cc22bb241b41&psig=AOvVaw2FmCi_7qFmw5DJRXlEs67p&ust=1736423335475000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjS05OH5ooDFQAAAAAdAAAAABAE)
 
