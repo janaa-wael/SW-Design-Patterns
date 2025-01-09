@@ -2,7 +2,7 @@
  * ModernComputer.h
  *
  *  Created on: Jan 9, 2025
- *      Author: hp
+ *      Author: Jana Wael
  */
 
 #ifndef MODERNCOMPUTER_H_

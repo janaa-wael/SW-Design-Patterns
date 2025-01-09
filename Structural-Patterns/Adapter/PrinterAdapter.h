@@ -2,7 +2,7 @@
  * PrinterAdapter.h
  *
  *  Created on: Jan 9, 2025
- *      Author: hp
+ *      Author: Jana Wael
  */
 
 #ifndef PRINTERADAPTER_H_

@@ -2,7 +2,7 @@
  * ModernComputer.cpp
  *
  *  Created on: Jan 9, 2025
- *      Author: hp
+ *      Author: Jana Wael
  */
 
 #include "ModernComputer.h"

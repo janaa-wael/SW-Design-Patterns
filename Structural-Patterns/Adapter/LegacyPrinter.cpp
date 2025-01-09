@@ -2,7 +2,7 @@
  * LegacyPrinter.cpp
  *
  *  Created on: Jan 9, 2025
- *      Author: hp
+ *      Author: Jana Wael
  */
 #include <iostream>
 #include "LegacyPrinter.h"

@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Jan 9, 2025
- *      Author: hp
+ *      Author: Jana Wael
  */
 
 #include <iostream>
