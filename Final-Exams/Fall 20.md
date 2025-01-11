@@ -14,6 +14,10 @@ c) Visitor Pattern
 
 ## **Q4 , B:**
 
+![image-20250111214735278](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20250111214735278.png)
+
+![image-20250111214810222](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20250111214810222.png)
+
 1- c) Use bridge pattern to build separate hierarchies for the publications and the media to decouple the abstraction from its implementation so that the two can vary independently.
 
 2- b) Apply the Adapter Pattern
