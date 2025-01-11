@@ -12,7 +12,7 @@ A visitor design patterns or visitor method is basically defined as a behavioral
 
 ## * Structure
 
-![Visitor Pattern Structure](https://media.geeksforgeeks.org/wp-content/uploads/20231009203418/Screenshot-2023-10-09-203129.png)
+![Visitor Pattern Structure](https://refactoring.guru/images/patterns/diagrams/visitor/structure-en.png)
 
 ## * Pros
 
