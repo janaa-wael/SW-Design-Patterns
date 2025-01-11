@@ -16,7 +16,7 @@ The Prototype Pattern is a creational design pattern that enables creating new o
 
 ## * Structure
 
-![Prototype Pattern Structure](https://www.researchgate.net/publication/249885094/figure/fig14/AS:532128963272704@1503880839323/Prototype-design-pattern-UML-like-class-diagram.png)
+![Prototype Pattern Structure](https://refactoring.guru/images/patterns/diagrams/prototype/structure.png)
 
 ## * Pros
 
