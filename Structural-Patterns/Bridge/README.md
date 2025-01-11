@@ -12,7 +12,7 @@ Bridge Pattern is basically a structural design pattern in software engineering 
 
 ## * Structure
 
-![Bridge Pattern Structure](https://www.researchgate.net/publication/249885094/figure/fig16/AS:532128963022850@1503880839549/UML-class-diagram-for-Bridge-pattern.png)
+![Bridge Pattern Structure](https://www.bogotobogo.com/DesignPatterns/images/bridge/bridgediagram.png)
 
 ## * Pros
 
