@@ -2,7 +2,7 @@
 
 ## * Definition
 
-Abstract Factory Pattern is a creational design pattern used in object-oriented programming. It provides an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is a way to encapsulate the creation of objects and ensure that they are compatible and properly configured. In this article, we'll look at the Abstract Factory Pattern in detail with an example
+Abstract Factory Pattern is a creational design pattern used in object-oriented programming. It provides an interface for creating families of related or dependent objects without specifying their concrete classes. This pattern is a way to encapsulate the creation of objects and ensure that they are compatible and properly configured. 
 
 ## * Intent
 
